@@ -12,9 +12,9 @@ workflows:
         certificates:
          - certificate: cosmicert
       vars:
-        BUNDLE_ID: "UseBrainLab"
-        XCODE_PROJECT: "UseBrainLab.xcodeproj"
-        XCODE_SCHEME: "UseBrainLab"
+        BUNDLE_ID: "NeonInvadersCosmic"
+        XCODE_PROJECT: "NeonInvadersCosmic.xcodeproj"
+        XCODE_SCHEME: "NeonInvadersCosmic"
         APP_STORE_APPLE_ID: 6737786907
       xcode: 16.0
 
